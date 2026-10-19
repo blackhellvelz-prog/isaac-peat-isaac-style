@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<name>Peat, Isaac-Style</name>
+	<directory>peatisaacstyle</directory>
+	<description>[h1]Peat, Isaac-Style[/h1]
+Peat from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3778123093]Fiend Folio[/url] is drawn in runs as a cut-out from his cartoon. This mod gives him a proper in-game sprite in the style of Isaac and the other characters, after his official Fiend Folio portrait: potato nose, open mouth, double chin, ears, brown boots.
+
+[h2]What changes[/h2]
+[list]
+[*]Body and head in the standard character layout: every walking, shooting, item-pickup and hurt animation.
+[*]Item costumes sit on him the same way they sit on Isaac.
+[*]On the horse he is drawn as a rider sitting on it.
+[*]Only the look changes: his stats, items and mechanics are Fiend Folio's.
+[/list]
+
+[h2]Requirements[/h2]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3127536138]REPENTOGON[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3778123093]Fiend Folio: Reloaded[/url]
+[/list]
+Fiend Folio's files are not changed: the sprite is swapped at render time.
+
+[h2]Links[/h2]
+Source code: [url=https://github.com/blackhellvelz-prog/isaac-peat-isaac-style]GitHub[/url]
+More from the same set: Basement Scrapbook Menu, Dead Sea Scrolls: Unrolled, Talents for Everyone, Mod Fixes &amp; Speedups, Russian Translation for Mods.
+
+Made with Universal Modder. Peat is a Fiend Folio character. Author: blackhellvelz.</description>
+	<version>1.0</version>
+	<visibility>Public</visibility>
+	<tag id="Lua"/>
+	<tag id="Graphics"/>
+	<tag id="Player Characters"/>
+</metadata>
